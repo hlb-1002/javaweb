@@ -1,0 +1,5 @@
+
+
+
+lias ll='ls -al'
+update = 01
